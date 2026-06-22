@@ -1,0 +1,138 @@
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Ashburton District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Auckland Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Bay of Plenty Regional Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Carterton District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Central Hawke's Bay District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Central Otago District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Chatham Islands Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Christchurch City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Clutha District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Dunedin City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Far North District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Gisborne District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Gore District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Greater Wellington Regional Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Grey District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Hamilton City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Hastings District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Hauraki District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Horizons Regional Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Horowhenua District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Hurunui District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Hutt City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Invercargill City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Kaikōura District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Kaipara District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Kawerau District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Mackenzie District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Manawatū District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Marlborough District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Masterton District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Matamata-Piako District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Napier City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Nelson City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by New Plymouth District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Palmerston North City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Porirua City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Queenstown Lakes District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Rangitīkei District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Rotorua Lakes Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Ruapehu District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Selwyn District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by South Taranaki District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by South Waikato District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by South Wairarapa District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Southland District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Stratford District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Taranaki Regional Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Tararua District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Tasman District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Taupō District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Tauranga City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Timaru District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Upper Hutt City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Waikato District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Waimakariri District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Waimate District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Waipā District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Wairoa District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Waitaki District Council, New Zealand 1.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Waitaki District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Waitomo District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Wellington City Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Western Bay of Plenty District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Westland District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Whanganui District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Whangārei District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by all Local Authorities, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Ōpōtiki District Council, New Zealand.csv
+Figure.nz data/Chart Data/Income and expenditure on recreation and sport by Ōtorohanga District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Ashburton District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Auckland Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Bay of Plenty Regional Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Buller District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Canterbury Regional Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Carterton District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Central Hawke's Bay District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Central Otago District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Chatham Islands Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Christchurch City Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Clutha District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Dunedin City Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Far North District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Gisborne District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Gore District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Grey District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Hamilton City Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Hauraki District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Hawke's Bay Regional Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Horizons Regional Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Horowhenua District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Hurunui District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Hutt City Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Invercargill City Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Kaikōura District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Kaipara District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Kawerau District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Mackenzie District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Manawatū District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Marlborough District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Masterton District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Napier City Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Nelson City Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of New Plymouth District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Otago Regional Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Palmerston North City Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Porirua City Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Queenstown Lakes District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Rangitīkei District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Rotorua Lakes Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Ruapehu District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Selwyn District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of South Taranaki District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of South Waikato District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of South Wairarapa District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Southland District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Stratford District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Taranaki Regional Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Tararua District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Tasman District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Taupō District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Timaru District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Upper Hutt City Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Waikato District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Waikato Regional Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Waimakariri District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Waimate District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Wairoa District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Waitaki District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Waitomo District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Wellington City Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Western Bay of Plenty District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Westland District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Whakatāne District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Whanganui District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Whangārei District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of all Local Authorities, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Ōpōtiki District Council, New Zealand.csv
+Figure.nz data/Chart Data/Operating expenditure of Ōtorohanga District Council, New Zealand.csv

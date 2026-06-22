@@ -1,0 +1,6 @@
+client = Minio(
+    "localhost:9000",
+    access_key="user",
+    secret_key="Ateeb@12345",
+    secure=False
+)
